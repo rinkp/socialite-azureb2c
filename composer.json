@@ -1,0 +1,21 @@
+{
+    "name": "rinkp/socialite-azure-b2c",
+    "description": "Microsoft Azure B2C OAuth2 Provider for Laravel Socialite",
+    "license": "MIT",
+    "authors": [{
+        "name": "Rink Pieters",
+        "email": "rink@pieters.it"
+    }],
+    "require": {
+        "php": "^5.6 || ^7.0",
+        "ext-json": "*",
+        "socialiteproviders/manager": "~2.0 || ~3.0",
+        "firebase/php-jwt": "^5.2",
+        "phpseclib/phpseclib": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SocialiteProviders\\AzureB2C\\": ""
+        }
+    }
+}
