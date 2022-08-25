@@ -7,7 +7,7 @@
         "email": "rink@pieters.it"
     }],
     "require": {
-        "php": "^5.6 || ^7.0",
+        "php": "^5.6 || ^7.0 || ^8.0",
         "ext-json": "*",
         "socialiteproviders/manager": "~2.0 || ~3.0",
         "firebase/php-jwt": "^5.2",
