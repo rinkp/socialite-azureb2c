@@ -1,5 +1,5 @@
 {
-    "name": "rinkp/socialite-azure-b2c",
+    "name": "adrianmihaila/socialite-azure-b2c",
     "description": "Microsoft Azure B2C OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
